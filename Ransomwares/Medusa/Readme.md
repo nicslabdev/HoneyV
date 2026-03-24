@@ -1,0 +1,4 @@
+# Medusa 
+- **SHA256**: f40fb93230bb13d6116c03f0181f7ee0c613248035bc42f7b7507f73246cff88
+- **MD5**: 1f9160c1d766a383688f25f9f7bb599f
+- **VirusTotal**: https://www.virustotal.com/gui/file/f40fb93230bb13d6116c03f0181f7ee0c613248035bc42f7b7507f73246cff88

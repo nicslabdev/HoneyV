@@ -1,0 +1,4 @@
+# BQTLock
+- **SHA256**: 425b2f283b71237276f84d941d9c2982c7f61a9aff12ece10e15065b73b7165e
+- **MD5**: d244b63e40aab7299d194c11bf060054
+- **VirusTotal**: https://www.virustotal.com/gui/file/425b2f283b71237276f84d941d9c2982c7f61a9aff12ece10e15065b73b7165e

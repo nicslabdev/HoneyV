@@ -1,0 +1,4 @@
+# AsyncRAT
+- **SHA256**: 459e3408113537088a5825a91741e4a1de346bdef172710437725554ee90b04c
+- **MD5**: 5dac77a4c6854cf84b6d7a6c3a490bef
+- **VirusTotal**: https://www.virustotal.com/gui/file/459e3408113537088a5825a91741e4a1de346bdef172710437725554ee90b04c

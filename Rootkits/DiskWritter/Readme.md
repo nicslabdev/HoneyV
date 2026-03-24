@@ -1,0 +1,4 @@
+# DiskWritter
+- **SHA256**: 9f47d027f4eb8d1ca986a2e723397101d4368268285f79a95e59581794b8eca5
+- **MD5**: 2014325212aac151e5d0cac59615047c
+- **VirusTotal**: https://www.virustotal.com/gui/file/9f47d027f4eb8d1ca986a2e723397101d4368268285f79a95e59581794b8eca5
