@@ -1,6 +1,6 @@
 # Honeypot Use Case: Malware Collection, Execution, and Detection
 ![Fondos_INCIBE](https://github.com/nicslabdev/HoneyV/raw/main/logo_fondos_incibe.png)
-<b>Estos resultados han sido (parcialmente) financiados por la Cátedra Internacional UMA 2023, la cual forma parte del Programa Global de Innovación en Seguridad para la promoción de Cátedras de Ciberseguridad en España financiado por la Unión Europea Fondos NextGeneration-EU, a través del Instituto Nacional de Ciberseguridad (INCIBE).</b>
+This repository is part of the project "CiberIA: Investigación e Innovación para la Integración de Ciberseguridad e Inteligencia Artificial" (Proyecto C079/23), financed by "European Union NextGeneration-EU, the Recovery Plan, Transformation and Resilience", through INCIBE.
 
 ## Overview
 
